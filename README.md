@@ -1,8 +1,7 @@
 - Hi, I’m Samuel Brown
-- I’m interested in pure mathematics, specifically algebra and topology.
-- as well as data science, and analytics.
+- I’m studying math and electrical engineering.
 
-- I’m currently learning SQL and python.
+- I’m currently learning python.
 
 <!---
 samuelbrwn/samuelbrwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
