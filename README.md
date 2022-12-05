@@ -1,5 +1,5 @@
 - Hi, I’m Samuel Brown
-- I’m studying pure maths and physics.
+- I’m studying pure maths and electrical engineering.
 
 - I’m currently learning python.
 
